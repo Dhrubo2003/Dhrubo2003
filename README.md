@@ -1,4 +1,13 @@
+<h1 align="center">Hi 👋, I'm Dhrubo Bhattacharjee</h1>
+<h3 align="center">A Driven Freshmen in AIML With Strong Data Analytical Abilities</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubo2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubo2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrubo2003" alt="dhrubo2003" /></a> </p>
+
+- 🌱 I’m currently learning **DevOps , MLOps , Cloud**
+
+- 📫 How to reach me **dhrubob026@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhrubo-Bhattacharjee) 
 
@@ -15,8 +24,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhrubo2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhrubo2003&icon=0&color=3)](https://visitcount.itsvg.in)
