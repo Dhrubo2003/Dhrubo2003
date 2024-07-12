@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrubo Bhattacharjee</h1>
 <h3 align="center">A Driven Freshmen in AIML With Strong Data Analytical Abilities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubo2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubo2003" /> </p>
+
 
 
 - 🌱 I’m currently learning **DevOps , MLOps , Cloud**
